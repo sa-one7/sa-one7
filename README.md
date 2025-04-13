@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [sawansingh.framer.website](https://sawansingh.framer.website/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sawansingh.framer.website/)
 
 - 💬 Ask me about **Anything related to Cars and Codes**
 
